@@ -4,7 +4,7 @@ Welcome to the official repository for my modern eCommerce website built with [y
 
 ## 🌐 Live Demo
 
-🔗 [View Live Site](https://store-alpha-sable.vercel.app/products)
+🔗 [https://store-alpha-sable.vercel.app/](https://store-alpha-sable.vercel.app/products)
 
 ---
 
